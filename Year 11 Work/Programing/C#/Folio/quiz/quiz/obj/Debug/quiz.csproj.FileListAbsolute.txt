@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\bin\Debug\quiz.exe.config
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\bin\Debug\quiz.exe
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\bin\Debug\quiz.pdb
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.exe
+N:\Year 11 Applied Computing\Programing\C#\General Work\quiz\quiz\obj\Debug\quiz.pdb

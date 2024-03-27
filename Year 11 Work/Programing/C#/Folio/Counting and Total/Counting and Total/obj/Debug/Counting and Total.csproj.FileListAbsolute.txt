@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\bin\Debug\Counting and Total.exe.config
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\bin\Debug\Counting and Total.exe
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\bin\Debug\Counting and Total.pdb
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting and Total.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting and Total.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting_and_Total.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting_and_Total.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting and Total.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting and Total.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting and Total.exe
+N:\Year 11 Applied Computing\Programing\C#\Counting and Total\Counting and Total\obj\Debug\Counting and Total.pdb

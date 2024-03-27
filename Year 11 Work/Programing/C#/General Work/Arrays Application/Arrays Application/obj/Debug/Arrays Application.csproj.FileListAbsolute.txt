@@ -1,0 +1,10 @@
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\bin\Debug\Arrays Application.exe.config
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\bin\Debug\Arrays Application.exe
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\bin\Debug\Arrays Application.pdb
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\obj\Debug\Arrays Application.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\obj\Debug\Arrays_Application.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\obj\Debug\Arrays_Application.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\obj\Debug\Arrays Application.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\obj\Debug\Arrays Application.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\obj\Debug\Arrays Application.exe
+N:\Year 11 Applied Computing\Programing\C#\General Work\Arrays Application\Arrays Application\obj\Debug\Arrays Application.pdb

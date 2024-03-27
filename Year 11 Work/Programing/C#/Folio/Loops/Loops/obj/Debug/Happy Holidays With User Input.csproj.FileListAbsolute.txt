@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\bin\Debug\Loops.exe.config
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\bin\Debug\Loops.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\bin\Debug\Loops.pdb
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Happy Holidays With User Input.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Happy Holidays With User Input.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Loops.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Loops.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Happy Holidays With User Input.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Happy Holidays With User Input.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Loops.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\Loops\Loops\obj\Debug\Loops.pdb

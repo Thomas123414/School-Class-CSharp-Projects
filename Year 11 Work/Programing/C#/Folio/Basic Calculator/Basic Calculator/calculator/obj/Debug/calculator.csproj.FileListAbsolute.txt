@@ -1,0 +1,22 @@
+N:\year 11\computer\unit 1\area 2\calculator\calculator\bin\Debug\calculator.exe.config
+N:\year 11\computer\unit 1\area 2\calculator\calculator\bin\Debug\calculator.exe
+N:\year 11\computer\unit 1\area 2\calculator\calculator\bin\Debug\calculator.pdb
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.Form1.resources
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.exe
+N:\year 11\computer\unit 1\area 2\calculator\calculator\obj\Debug\calculator.pdb
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\bin\Debug\calculator.exe.config
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\bin\Debug\calculator.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\bin\Debug\calculator.pdb
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\Basic Calculator\Basic Calculator\calculator\obj\Debug\calculator.pdb

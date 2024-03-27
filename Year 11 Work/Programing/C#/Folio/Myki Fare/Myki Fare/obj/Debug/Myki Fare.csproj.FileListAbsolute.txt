@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\bin\Debug\Myki Fare.exe.config
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\bin\Debug\Myki Fare.exe
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\bin\Debug\Myki Fare.pdb
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki Fare.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki Fare.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki_Fare.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki_Fare.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki Fare.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki Fare.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki Fare.exe
+N:\Year 11 Applied Computing\Programing\C#\Myki Fare\Myki Fare\obj\Debug\Myki Fare.pdb

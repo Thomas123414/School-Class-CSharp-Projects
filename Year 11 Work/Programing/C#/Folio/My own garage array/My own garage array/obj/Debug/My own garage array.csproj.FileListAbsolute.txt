@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\bin\Debug\My own garage array.exe.config
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\bin\Debug\My own garage array.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\bin\Debug\My own garage array.pdb
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My own garage array.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My own garage array.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My_own_garage_array.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My_own_garage_array.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My own garage array.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My own garage array.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My own garage array.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\My own garage array\My own garage array\obj\Debug\My own garage array.pdb

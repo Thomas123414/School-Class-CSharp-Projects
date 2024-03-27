@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\bin\Debug\Tax and Net Income Calculator.exe.config
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\bin\Debug\Tax and Net Income Calculator.exe
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\bin\Debug\Tax and Net Income Calculator.pdb
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax and Net Income Calculator.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax and Net Income Calculator.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax_and_Net_Income_Calculator.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax_and_Net_Income_Calculator.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax and Net Income Calculator.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax and Net Income Calculator.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax and Net Income Calculator.exe
+N:\Year 11 Applied Computing\Programing\C#\CFA 1\Tax and Net Income Calculator\Tax and Net Income Calculator\obj\Debug\Tax and Net Income Calculator.pdb

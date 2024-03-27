@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\bin\Debug\Hello World.exe.config
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\bin\Debug\Hello World.exe
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\bin\Debug\Hello World.pdb
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello World.exe
+N:\Year 11 Applied Computing\Programing\C#\Hello World\Hello World\obj\Debug\Hello World.pdb

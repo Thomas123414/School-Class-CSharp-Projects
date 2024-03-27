@@ -1,0 +1,11 @@
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\bin\Debug\Playlist Database.exe.config
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\bin\Debug\Playlist Database.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\bin\Debug\Playlist Database.pdb
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist Database.csproj.AssemblyReference.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist Database.csproj.SuggestedBindingRedirects.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist_Database.Properties.Resources.resources
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist Database.csproj.GenerateResource.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist Database.csproj.CoreCompileInputs.cache
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist Database.exe
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist Database.pdb
+N:\Year 11 Applied Computing\Programing\C#\Folio\Playlist Database\Playlist Database\obj\Debug\Playlist_Database.Form1.resources
