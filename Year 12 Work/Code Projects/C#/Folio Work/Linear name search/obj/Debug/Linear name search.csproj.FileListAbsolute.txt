@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\bin\Debug\Linear name search.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\bin\Debug\Linear name search.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\bin\Debug\Linear name search.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\obj\Debug\Linear name search.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\obj\Debug\Linear_name_search.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\obj\Debug\Linear_name_search.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\obj\Debug\Linear name search.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\obj\Debug\Linear name search.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\obj\Debug\Linear name search.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Linear name search\obj\Debug\Linear name search.pdb

@@ -1,0 +1,30 @@
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\bin\Debug\Luigis Pizza.exe.config
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\bin\Debug\Luigis Pizza.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\bin\Debug\Luigis Pizza.pdb
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\obj\Debug\Luigis_Pizza.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\obj\Debug\Luigis_Pizza.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\obj\Debug\Luigis Pizza.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Luigis Pizza\obj\Debug\Luigis Pizza.pdb
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\bin\Debug\Luigis Pizza.exe.config
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\bin\Debug\Luigis Pizza.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\bin\Debug\Luigis Pizza.pdb
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis_Pizza.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis_Pizza.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\bin\Debug\Luigis Pizza.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\bin\Debug\Luigis Pizza.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\bin\Debug\Luigis Pizza.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis_Pizza.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis_Pizza.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Luigis Pizza\obj\Debug\Luigis Pizza.pdb

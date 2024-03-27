@@ -1,0 +1,30 @@
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.exe.config
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.exe
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.pdb
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.AssemblyReference.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.Form1.resources
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.Properties.Resources.resources
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.GenerateResource.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.CoreCompileInputs.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.exe
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.pdb
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.exe.config
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.exe
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.pdb
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.AssemblyReference.cache
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.Form1.resources
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.Properties.Resources.resources
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.GenerateResource.cache
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.exe
+C:\Users\AND0043\Downloads\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\bin\Debug\Arrays_Example.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Arrays_Example\Arrays_Example\obj\Debug\Arrays_Example.pdb

@@ -1,0 +1,13 @@
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\bin\Debug\SAC 1B Software Development.exe.config
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\bin\Debug\SAC 1B Software Development.exe
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\bin\Debug\SAC 1B Software Development.pdb
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC 1B Software Development.csproj.AssemblyReference.cache
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC 1B Software Development.csproj.SuggestedBindingRedirects.cache
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC_1B_Software_Development.Form1.resources
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC_1B_Software_Development.Form2.resources
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC_1B_Software_Development.Form3.resources
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC_1B_Software_Development.Properties.Resources.resources
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC 1B Software Development.csproj.GenerateResource.cache
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC 1B Software Development.csproj.CoreCompileInputs.cache
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC 1B Software Development.exe
+C:\Users\and0043\Desktop\SAC 1B Software Development\SAC 1B Software Development\obj\Debug\SAC 1B Software Development.pdb

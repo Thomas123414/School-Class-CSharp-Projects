@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\bin\Debug\Height Calualator.exe.config
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\bin\Debug\Height Calualator.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\bin\Debug\Height Calualator.pdb
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\obj\Debug\Height Calualator.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\obj\Debug\Height_Calualator.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\obj\Debug\Height_Calualator.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\obj\Debug\Height Calualator.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\obj\Debug\Height Calualator.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\obj\Debug\Height Calualator.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Height Calualator\obj\Debug\Height Calualator.pdb

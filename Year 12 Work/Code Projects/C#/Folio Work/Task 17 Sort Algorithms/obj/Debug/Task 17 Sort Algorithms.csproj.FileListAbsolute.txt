@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\bin\Debug\Task 17 Sort Algorithms.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\bin\Debug\Task 17 Sort Algorithms.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\bin\Debug\Task 17 Sort Algorithms.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\obj\Debug\Task 17 Sort Algorithms.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\obj\Debug\Task_17_Sort_Algorithms.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\obj\Debug\Task_17_Sort_Algorithms.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\obj\Debug\Task 17 Sort Algorithms.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\obj\Debug\Task 17 Sort Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\obj\Debug\Task 17 Sort Algorithms.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 17 Sort Algorithms\obj\Debug\Task 17 Sort Algorithms.pdb

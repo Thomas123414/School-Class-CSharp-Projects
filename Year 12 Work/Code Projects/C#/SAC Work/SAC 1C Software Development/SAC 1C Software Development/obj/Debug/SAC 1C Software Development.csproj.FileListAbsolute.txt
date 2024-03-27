@@ -1,0 +1,25 @@
+N:\SAC 1C Software Development\SAC 1C Software Development\bin\Debug\SAC 1C Software Development.exe.config
+N:\SAC 1C Software Development\SAC 1C Software Development\bin\Debug\SAC 1C Software Development.exe
+N:\SAC 1C Software Development\SAC 1C Software Development\bin\Debug\SAC 1C Software Development.pdb
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.csproj.AssemblyReference.cache
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.csproj.SuggestedBindingRedirects.cache
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Form1.resources
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Input.resources
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Properties.Resources.resources
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.csproj.GenerateResource.cache
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.csproj.CoreCompileInputs.cache
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.exe
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.pdb
+N:\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Edit.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\bin\Debug\SAC 1C Software Development.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\bin\Debug\SAC 1C Software Development.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\bin\Debug\SAC 1C Software Development.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Edit.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Input.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC_1C_Software_Development.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\SAC Work\SAC 1C Software Development\SAC 1C Software Development\obj\Debug\SAC 1C Software Development.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SongInfo>
+  <Song>
+    <SongName>Call me maybe</SongName>
+    <Genre>hiphop</Genre>
+    <Duration>4</Duration>
+    <Record>call me</Record>
+    <Artist>some girl</Artist>
+  </Song>
+  <Song>
+    <SongName>Shake it off</SongName>
+    <Genre>kpop</Genre>
+    <Duration>3</Duration>
+    <Record>It</Record>
+    <Artist>ed shreenan </Artist>
+  </Song>
+</SongInfo>

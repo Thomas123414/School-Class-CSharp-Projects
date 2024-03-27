@@ -1,0 +1,16 @@
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\bin\Debug\net6.0-windows\Sorting Algorithms.exe
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\bin\Debug\net6.0-windows\Sorting Algorithms.deps.json
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\bin\Debug\net6.0-windows\Sorting Algorithms.runtimeconfig.json
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\bin\Debug\net6.0-windows\Sorting Algorithms.dll
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\bin\Debug\net6.0-windows\Sorting Algorithms.pdb
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting_Algorithms.Form1.resources
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.csproj.GenerateResource.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.AssemblyInfo.cs
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.dll
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\refint\Sorting Algorithms.dll
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.pdb
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\Sorting Algorithms.genruntimeconfig.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\Sorting Algorithms\Sorting Algorithms\obj\Debug\net6.0-windows\ref\Sorting Algorithms.dll

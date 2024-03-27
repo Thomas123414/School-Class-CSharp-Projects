@@ -1,0 +1,21 @@
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\bin\Debug\Jims Seed Collection.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\bin\Debug\Jims Seed Collection.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\bin\Debug\Jims Seed Collection.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims Seed Collection.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims_Seed_Collection.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims_Seed_Collection.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims Seed Collection.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims Seed Collection.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims Seed Collection.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims Seed Collection.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\bin\Debug\Jims Seed Collection.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\bin\Debug\Jims Seed Collection.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\bin\Debug\Jims Seed Collection.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\obj\Debug\Jims Seed Collection.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\obj\Debug\Jims_Seed_Collection.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\obj\Debug\Jims_Seed_Collection.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\obj\Debug\Jims Seed Collection.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\obj\Debug\Jims Seed Collection.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\obj\Debug\Jims Seed Collection.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Jims Seed Collection\obj\Debug\Jims Seed Collection.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Jims Seed Collection\obj\Debug\Jims_Seed_Collection.Edit.resources

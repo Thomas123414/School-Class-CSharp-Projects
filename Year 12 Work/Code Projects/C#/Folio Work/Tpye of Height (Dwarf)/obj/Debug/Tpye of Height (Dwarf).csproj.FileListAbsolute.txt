@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\bin\Debug\Tpye of Height (Dwarf).exe.config
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\bin\Debug\Tpye of Height (Dwarf).exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\bin\Debug\Tpye of Height (Dwarf).pdb
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\obj\Debug\Tpye of Height (Dwarf).csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\obj\Debug\Tpye_of_Height__Dwarf_.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\obj\Debug\Tpye_of_Height__Dwarf_.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\obj\Debug\Tpye of Height (Dwarf).csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\obj\Debug\Tpye of Height (Dwarf).csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\obj\Debug\Tpye of Height (Dwarf).exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Tpye of Height (Dwarf)\obj\Debug\Tpye of Height (Dwarf).pdb

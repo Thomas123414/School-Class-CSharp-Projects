@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\bin\Debug\Candidate Age.exe.config
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\bin\Debug\Candidate Age.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\bin\Debug\Candidate Age.pdb
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\obj\Debug\Candidate Age.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\obj\Debug\Candidate_Age.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\obj\Debug\Candidate_Age.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\obj\Debug\Candidate Age.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\obj\Debug\Candidate Age.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\obj\Debug\Candidate Age.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Candidate Age\obj\Debug\Candidate Age.pdb

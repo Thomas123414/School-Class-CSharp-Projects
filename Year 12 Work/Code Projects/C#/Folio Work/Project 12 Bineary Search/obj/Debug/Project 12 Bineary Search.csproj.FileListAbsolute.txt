@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\bin\Debug\Project 12 Bineary Search.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\bin\Debug\Project 12 Bineary Search.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\bin\Debug\Project 12 Bineary Search.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\obj\Debug\Project 12 Bineary Search.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\obj\Debug\Project_12_Bineary_Search.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\obj\Debug\Project_12_Bineary_Search.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\obj\Debug\Project 12 Bineary Search.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\obj\Debug\Project 12 Bineary Search.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\obj\Debug\Project 12 Bineary Search.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Project 12 Bineary Search\obj\Debug\Project 12 Bineary Search.pdb

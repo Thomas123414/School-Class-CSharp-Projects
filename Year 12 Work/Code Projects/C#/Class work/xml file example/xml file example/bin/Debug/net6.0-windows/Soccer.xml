@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ALPlayers>
+  <Player>
+    <FirstName>Jim</FirstName>
+    <SurName>Anderson</SurName>
+    <Age>22</Age>
+    <PlayerNumber>4</PlayerNumber>
+  </Player>
+  <Player>
+    <FirstName>FRED</FirstName>
+    <SurName>SMITH</SurName>
+    <Age>55</Age>
+    <PlayerNumber>3</PlayerNumber>
+  </Player>
+  <Player>
+    <FirstName>Tim</FirstName>
+    <SurName>Walt</SurName>
+    <Age>44</Age>
+    <PlayerNumber>12</PlayerNumber>
+  </Player>
+  <Player>
+    <FirstName>Bob</FirstName>
+    <SurName>Jane</SurName>
+    <Age>21</Age>
+    <PlayerNumber>13</PlayerNumber>
+  </Player>
+</ALPlayers>

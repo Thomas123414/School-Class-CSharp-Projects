@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\bin\Debug\Task 19 XML File.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\bin\Debug\Task 19 XML File.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\bin\Debug\Task 19 XML File.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\obj\Debug\Task 19 XML File.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\obj\Debug\Task_19_XML_File.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\obj\Debug\Task_19_XML_File.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\obj\Debug\Task 19 XML File.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\obj\Debug\Task 19 XML File.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\obj\Debug\Task 19 XML File.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Task 19 XML File\obj\Debug\Task 19 XML File.pdb

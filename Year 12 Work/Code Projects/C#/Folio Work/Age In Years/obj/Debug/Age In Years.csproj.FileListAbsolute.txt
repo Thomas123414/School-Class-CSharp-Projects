@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\bin\Debug\Age In Years.exe.config
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\bin\Debug\Age In Years.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\bin\Debug\Age In Years.pdb
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\obj\Debug\Age In Years.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\obj\Debug\Age_In_Years.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\obj\Debug\Age_In_Years.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\obj\Debug\Age In Years.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\obj\Debug\Age In Years.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\obj\Debug\Age In Years.exe
+C:\Users\AND0043\Desktop\Year 12\Applied Computing\Code Projects\C#\Folio Work\Age In Years\obj\Debug\Age In Years.pdb

@@ -1,0 +1,32 @@
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.exe
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.deps.json
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.runtimeconfig.json
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.dll
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.pdb
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml_file_example.Form1.resources
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.csproj.GenerateResource.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.AssemblyInfoInputs.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.AssemblyInfo.cs
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.csproj.CoreCompileInputs.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.dll
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\refint\xml file example.dll
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.pdb
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.genruntimeconfig.cache
+C:\Users\waltrowiczt\Documents\2023\2024 Software Development\Folio\xml file example\xml file example\obj\Debug\net6.0-windows\ref\xml file example.dll
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.deps.json
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.runtimeconfig.json
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.dll
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\bin\Debug\net6.0-windows\xml file example.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml_file_example.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.AssemblyInfoInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.AssemblyInfo.cs
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.dll
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\refint\xml file example.dll
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\xml file example.genruntimeconfig.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\xml file example\xml file example\obj\Debug\net6.0-windows\ref\xml file example.dll

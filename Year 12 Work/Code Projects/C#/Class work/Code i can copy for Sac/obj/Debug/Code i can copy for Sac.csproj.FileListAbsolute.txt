@@ -1,0 +1,5 @@
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Code i can copy for Sac\obj\Debug\Code i can copy for Sac.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Code i can copy for Sac\obj\Debug\Code_i_can_copy_for_Sac.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Code i can copy for Sac\obj\Debug\Code_i_can_copy_for_Sac.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Code i can copy for Sac\obj\Debug\Code i can copy for Sac.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Class work\Code i can copy for Sac\obj\Debug\Code i can copy for Sac.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\bin\Debug\Year 12 Mentor Swap.exe.config
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\bin\Debug\Year 12 Mentor Swap.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\bin\Debug\Year 12 Mentor Swap.pdb
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\obj\Debug\Year 12 Mentor Swap.csproj.AssemblyReference.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\obj\Debug\Year_12_Mentor_Swap.Form1.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\obj\Debug\Year_12_Mentor_Swap.Properties.Resources.resources
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\obj\Debug\Year 12 Mentor Swap.csproj.GenerateResource.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\obj\Debug\Year 12 Mentor Swap.csproj.CoreCompileInputs.cache
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\obj\Debug\Year 12 Mentor Swap.exe
+C:\Users\AND0043\Desktop\Year 12\Software Development\Code Projects\C#\Folio Work\Year 12 Mentor Swap\obj\Debug\Year 12 Mentor Swap.pdb

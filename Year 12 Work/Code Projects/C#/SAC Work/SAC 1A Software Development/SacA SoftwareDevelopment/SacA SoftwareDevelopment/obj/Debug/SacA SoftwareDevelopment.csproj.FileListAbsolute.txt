@@ -1,0 +1,11 @@
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\bin\Debug\SacA SoftwareDevelopment.exe.config
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\bin\Debug\SacA SoftwareDevelopment.exe
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\bin\Debug\SacA SoftwareDevelopment.pdb
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA SoftwareDevelopment.csproj.AssemblyReference.cache
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA SoftwareDevelopment.csproj.SuggestedBindingRedirects.cache
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA_SoftwareDevelopment.Form1.resources
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA_SoftwareDevelopment.Properties.Resources.resources
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA SoftwareDevelopment.csproj.GenerateResource.cache
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA SoftwareDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA SoftwareDevelopment.exe
+C:\Users\and0043\Desktop\SacA SoftwareDevelopment\SacA SoftwareDevelopment\obj\Debug\SacA SoftwareDevelopment.pdb
